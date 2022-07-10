@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <h1>알고리즘</h1>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ominyoung?theme=unicorn&font=Heebo)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohmj0907)](https://solved.ac/ohmj0907)
-
+| BeakJoon | LeetCode |
+| ------------ | ------------- |
+| [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohmj0907)](https://solved.ac/ohmj0907) | ![LeetCode Stats](https://leetcard.jacoblin.cool/ominyoung?theme=unicorn&font=Heebo)  |
