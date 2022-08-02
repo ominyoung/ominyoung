@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ominyoung
-- 👀 I’m interested in python, Django, Flask-fast_api, DRF(Django Rest Framework), react.js
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in python, Django, Flask-fast_api, DRF(Django Rest Framework)
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on django
 - 📫 How to reach me ...
 
